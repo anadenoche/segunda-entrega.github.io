@@ -8,6 +8,9 @@
     background-color:blanchedalmond;
     border: solid 3px black;
 }
+#giftcard {
+    color: rgb(250, 152, 39);
+}
 
 .beneficios__titulo h2 {
     text-align: center;
@@ -45,7 +48,7 @@
     align-items: center;
     justify-content: center;
     gap: 5vh;
-    color: rgb(250, 152, 39);
+    
 }
 
 #porQue {
